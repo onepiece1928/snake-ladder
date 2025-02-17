@@ -77,7 +77,7 @@ def display_winner(player):
     pygame.quit()
     exit()
 
-# Main game loop
+# Main game loop   
 running = True
 while running:
     screen.fill(WHITE)
